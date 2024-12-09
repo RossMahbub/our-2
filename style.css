@@ -1,0 +1,85 @@
+html{
+ background-color: rgb(218, 102, 146);
+}
+.main{
+  width: 65%;
+}
+.head{
+  margin: 4%;
+  background-color: aliceblue;
+}
+button{
+  font-size: larger;
+  background-color: rgb(228, 101, 17);
+  color: aliceblue;
+  border-radius: 15px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+h1{
+font-size: 50px;
+}
+div{
+  background-color: aliceblue;
+  margin: 5%;
+}
+h2{
+  text-align: right;
+padding: 1%;
+}
+.aa{
+  background-color: rgb(192, 247, 247);
+  display: flex;
+}
+.leg{
+  width: 30              %;
+  margin: 4%;
+  padding: 5%;
+}
+.side{
+  background-color:  rgb(218, 102, 146);
+  width: 30%;
+  padding: 2%;
+
+}
+
+
+img{
+  width: 100%;
+  margin: none;
+
+}
+section{
+  display: flex;
+}
+.alpha1{
+  background-color: aliceblue;
+  margin: 0%;
+}
+.alpha2{
+  background-color: aliceblue;
+margin: 0%;
+}
+.alpha3{
+  color: aliceblue;
+  font-size: 60px;
+}
+.alpha4{
+  color: aliceblue;
+  font-size: 40px;
+
+}
+.alpha5{
+  display: inline-block;
+  width: 40%;
+}
+
+
+.alpha6{
+ 
+  right: 10%;
+  width: 40%;
+  
+}
