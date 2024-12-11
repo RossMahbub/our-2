@@ -18,9 +18,7 @@ a{
   text-decoration: none;
   color: black;
 }
-h1{
-font-size: 50px;
-}
+
 div{
   background-color: aliceblue;
   margin: 5%;
@@ -42,21 +40,15 @@ padding: 1%;
   background-color:  rgb(218, 102, 146);
   width: 30%;
   padding: 2%;
-
-}
-
-
-img{
-  width: 100%;
-  margin: none;
-
 }
 section{
   display: flex;
 }
+
 .alpha1{
   background-color: aliceblue;
   margin: 0%;
+ 
 }
 .alpha2{
   background-color: aliceblue;
@@ -69,17 +61,25 @@ margin: 0%;
 .alpha4{
   color: aliceblue;
   font-size: 40px;
-
+ 
 }
 .alpha5{
-  display: inline-block;
-  width: 40%;
+  font-size: 25px;
+ width: 50%;
+ height: 50%;
+margin: 0%;
+padding: 10%;
+}
+.alpha6{
+  width: 50%;
+  margin: 0%;
+padding: 0%;
 }
 
-
-.alpha6{
- 
-  right: 10%;
-  width: 40%;
-  
+.alpha7{
+  display: flex;
+justify-content: space-around;
+}
+img{
+  width: 100%;
 }
